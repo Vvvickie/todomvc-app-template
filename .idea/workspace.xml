@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06871e15-2bac-4269-84de-b945a2ace27f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular/LICENSE.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular/angular-csp.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular/angular.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular/angular.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular/angular.min.js.gzip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular/angular.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular/bower.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/todomvc-app-css/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/todomvc-app-css/license" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/todomvc-app-css/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/todomvc-app-css/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/todomvc-common/base.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/todomvc-common/base.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/todomvc-common/license" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/todomvc-common/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/todomvc-common/readme.md" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -151,12 +130,20 @@
       <updated>1525512393135</updated>
       <workItem from="1525512428545" duration="3926000" />
       <workItem from="1525572732023" duration="8330000" />
-      <workItem from="1525596478047" duration="66000" />
+      <workItem from="1525596478047" duration="104000" />
     </task>
+    <task id="LOCAL-00001" summary="add node modules">
+      <created>1525596588319</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525596588319</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12322000" />
+    <option name="totallyTimeSpent" value="12360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -185,6 +172,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add node modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="add node modules" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -228,6 +219,7 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
